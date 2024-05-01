@@ -2,7 +2,7 @@ to open the website: http://shopclues-backend.netlify.app/
 
 # shopclue-clone
 ## Built with
-- Node.js
+- Node.js with Express
 - HTML
 - CSS
 - JavaScript
