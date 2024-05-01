@@ -6,6 +6,7 @@ to open the website: http://shopclues-backend.netlify.app/
 - HTML
 - CSS
 - JavaScript
+- MongoDB
 ## Created Pages
 - User Page
 - Payment Gateway [Paytm API]
