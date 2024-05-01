@@ -6,9 +6,8 @@ to open the website: http://shopclues-backend.netlify.app/
 - HTML
 - CSS
 - JavaScript
-- MongoDB
 ## Created Pages
-- User Page
+- User Page (Homepage)
 - Payment Gateway [Paytm API]
 - Landing Page
 - Sign in Page
@@ -17,14 +16,4 @@ to open the website: http://shopclues-backend.netlify.app/
 - Cart Page
 - Cart Review Page
 - Checkout Page
-## Functionalities Added
-- Added API for Mobiles Products
-- Added API for each user Signin
-- Added API for user Page
-- For payment gateway, we used Paytm payment API
-- Dynamic checkout page
-- Users can sort and filter products according to their requirements
-- Discount/offer redemption
-- Functionality to buy a Item
-- Functionality to view Item Details
-- Functionality to add a Items in cart
+
